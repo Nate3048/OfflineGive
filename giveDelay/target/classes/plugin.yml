@@ -1,0 +1,10 @@
+name: giveDelay
+version: '1.0'
+main: me.nate.givedelay.GiveDelay
+api-version: 1.17
+author: NathanRivien
+commands:
+  giveoffline:
+    description: Dai a un oggetto ad un player online o offline!
+    usage: /<command> <player> <item> <quantity>
+    aliases: [ogive, tgive, giveplus]
